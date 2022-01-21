@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MD-DILDAR-MANDAL
+- 👋 Hi, I’m MD DILDAR MANDAL
 - 👀 I’m interested in coding and technology
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
