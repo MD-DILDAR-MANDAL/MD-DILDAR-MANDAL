@@ -8,4 +8,4 @@
     - [Twitter](https://twitter.com/MandalDildar?t=GYnbbL7Eda4FVgsmj4MuAQ&s=08)
     
     [![DILDAR's github stats](https://github-readme-stats.vercel.app/api?username=MD-DILDAR-MANDAL&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/toplangs/?username=MD-DILDAR-MANDAL)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-DILDAR-MANDAL)](https://github.com/anuraghazra/github-readme-stats)
