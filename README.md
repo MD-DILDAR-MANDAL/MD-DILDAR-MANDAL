@@ -6,7 +6,7 @@
     - [**LinkedIn _**](https://www.linkedin.com/in/md-dildar-mandal-837048199)<img src="img/lin.jpg" height="20" width ="20"/>
     <p>&nbsp;</p>
 
-    - [**Facebook_**](https://www.facebook.com/mandaldildar1)<img src="img/fb.png" height="20" width ="20"/>
+    - [**Facebook_**](https://www.facebook.com/mandaldildar1)<img src="img/fb.png" height="23" width ="23"/>
     
     <p>&nbsp;</p>
 
