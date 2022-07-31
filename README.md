@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m MD DILDAR MANDAL
-- 👀 I’m interested in *Technology*, *Maths*, and *Coding*
-- 🌱 I’m learning :- **_C++_**, **_HTML_**, **_CSS_**, **_JAVASCRIPT_**
+- 👀 I’m interested in *Technology*, *Maths*, *Coding* and *Anime*
+- 🌱 I’m learning 
 - 📫 How to reach me 👇
     - [**LinkedIn _**](https://www.linkedin.com/in/md-dildar-mandal-837048199)<img src="img/lin.jpg" height="20" width ="20"/>
     <p>&nbsp;</p>
