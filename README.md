@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD DILDAR MANDAL</h1>
-- 🌱 I’m currently learning **CYBER SECURITY**
+- 🌱
 
 <p align="left">
 </p>
