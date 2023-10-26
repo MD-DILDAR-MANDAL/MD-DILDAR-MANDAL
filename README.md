@@ -12,3 +12,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-dildar-mandal&" alt="md-dildar-mandal" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-dildar-mandal&label=Profile%20views&color=0e75b6&style=flat" alt="md-dildar-mandal" /> </p>
+
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
