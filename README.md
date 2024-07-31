@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Md Dildar Mandal</h1>
 <h3 align="center">A CSE student and a Linux Geek</h3>
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 👨‍💻 **Cybersecurity Enthusiast**
 
 - 💬 Ask me about **Linux, Cybersecurity and Programming**
 
