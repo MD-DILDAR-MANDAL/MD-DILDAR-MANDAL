@@ -21,8 +21,8 @@
 <p align="left">
 
 <a href="https://x.com/m_dildar_m" target="blank"><img align="center" src="img/twit.jpg" alt="xx" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/md-dildar-mandal-837048199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xx" height="30" width="40" /></a>
-<a href="https://leetcode.com/dildarmandal335/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xx" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-dildar-mandal-837048199/" target="blank"><img align="center" src="img/lin.jpg" alt="xx" height="30" width="30" /></a>
+<a href="https://leetcode.com/dildarmandal335/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="xx" height="30" width="30" /></a>
 </p>
 
 <br/>
