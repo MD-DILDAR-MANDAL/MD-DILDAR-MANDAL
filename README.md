@@ -6,10 +6,10 @@
 
 </h1>
 
-<h1 align="center">Hi 👋, I'm dildar_⸙</h1>
+<h1 align="center">Hi 👋, I'm Dildar</h1>
 <h3 align="center">Cybersecurity analyst | Linux Geek | Troubleshooter | CSE undergrad | Learning AI/ML reluctantly </h3>
 
-<h4 align="center"><a href="https://mddildarmandal.netlify.app">_PORTFOLIO_</a> </h4>
+<h4 align="center"><a href="https://mddildarmandal.netlify.app">👉 PORTFOLIO</a> </h4>
 
 <h3 align="left"> Connect with me:
     <a href="https://x.com/m_dildar_m" target="blank"><img align="center" src="img/twit.jpg" alt="xx" height="30" width="30" />   </a>
